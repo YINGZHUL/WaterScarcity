@@ -7,7 +7,7 @@ The algorithm and software versions used in this study are Python 3.9.13, Excel 
 IFR, A, Q, D calculation
 Tributary flow allocation – construct a method allowing tributaries flow allocation at water quality sampling sites for better capture the pollution source areas
 
-**Section 2: Water quality data**
+**Section 2: Water quality data:**
 Analyze water quality data monthly and aligning with PFRs
 
 **Section 3: Water scarcity calculation:**
