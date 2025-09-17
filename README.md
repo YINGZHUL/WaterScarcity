@@ -1,5 +1,5 @@
 # WaterScarcity
-Supporting materials for the paper 'Integrating aquatic life requirements into water scarcity assessment for coastal watersheds'
+This repository includes supporting scripts for the paper 'Integrating aquatic life requirements into water scarcity assessment for coastal watersheds'.
 
 The algorithm and software versions used in this study are Python 3.9.13, Excel Version 2508, ArcGIS Pro 3.1.3. Geoprocessing processes conducted in ArcGIS Pro are recorded as Python scripts.
 
@@ -15,3 +15,6 @@ According to spatial variation of aquatic life water quality requirements at str
 WSq calculations for: D4: industrial, D5: domestic, D16
 WSp calculations  at drainage and management area level
 WSp calculations at stream reach level
+
+Input data used in Flow analysis section are available at: http://www.hydroshare.org/resource/d15b9934f34e4c57913b3cb53966d5c7
+Input water quality data are derived from: https://ecology.wa.gov/research-data/data-resources/environmental-information-management-database
