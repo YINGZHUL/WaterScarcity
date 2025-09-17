@@ -9,9 +9,9 @@ Tributary flow allocation – construct a method allowing tributaries flow alloc
 Analyze water quality data monthly and aligning with PFRs
 
 **Section 3: Water scarcity calculation:**
-According to spatial variation of aquatic life water quality requirements at stream reach level, the calculation of (C/Cmax-1) is conducted in Arcgis Pro for clear visulization
-WSq calculations for: D4: industrial, D5: domestic, D16
-WSp calculations  at drainage and management area level
+According to spatial variation of aquatic life water quality requirements at stream reach level, the calculation of (C/Cmax-1) is conducted in Arcgis Pro for clear visulization/
+WSq calculations for: D4: industrial, D5: domestic, D16/
+WSp calculations  at drainage and management area level/
 WSp calculations at stream reach level
 
 Input data used in Flow analysis section are available at: http://www.hydroshare.org/resource/d15b9934f34e4c57913b3cb53966d5c7
